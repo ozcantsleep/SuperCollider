@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=DcrABV0hcjw&list=PLXMeprTk4ORNDMoWvtHJzTCZwOcqFaKGb
+// https://www.youtube.com/watch?v=oTBcGPXH6K0&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC&index=4
 // 주석 되냐 ㅇㅋ
 
 receiver.message
