@@ -1,3 +1,6 @@
+// https://www.youtube.com/watch?v=DcrABV0hcjw&list=PLXMeprTk4ORNDMoWvtHJzTCZwOcqFaKGb
+// 주석 되냐 ㅇㅋ
+
 receiver.message
 
 3.cubed
@@ -25,3 +28,4 @@ foo;
 )
 
 3.cubed  + 100 / 2;
+
